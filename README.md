@@ -1,1 +1,1 @@
-This repository contains implementation of backpropagation neural network model.
+This repository contains implementation of backpropagation neural network.
